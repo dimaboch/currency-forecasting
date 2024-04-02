@@ -1,0 +1,4 @@
+python - 3.11.6
+aiogram - 2.25.1
+numba - 0.58.1
+matlpotlib - 3.8.1
